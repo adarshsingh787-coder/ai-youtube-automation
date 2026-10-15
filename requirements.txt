@@ -1,0 +1,4 @@
+requests>=2.32.0,<3.0.0
+google-api-python-client>=2.140.0,<3.0.0
+google-auth>=2.34.0,<3.0.0
+google-auth-oauthlib>=1.2.1,<2.0.0
